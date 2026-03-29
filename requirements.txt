@@ -1,0 +1,7 @@
+#Requirements 
+torch
+torchvision
+segmentation-models-pytorch
+opencv-python
+numpy
+matplotlib
